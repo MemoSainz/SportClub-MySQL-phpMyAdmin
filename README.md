@@ -27,6 +27,8 @@ A database created called Club in where it's included two tables: sports & peopl
 
 ## Queries  SQL
 
+It is required, after doing the development of the exercise, this 4 sections.
+
 </div>
 
 - Obtain a whole list of all the people
@@ -51,3 +53,10 @@ A database created called Club in where it's included two tables: sports & peopl
     ```sql
     SELECT COUNT(fk_code) FROM people WHERE (fk_code=3);
     ```
+
+
+<br>
+
+<div align="center"> 
+<b> All lefts reserved 	&#169; Memo Sainz 2024 </b>
+</div>
