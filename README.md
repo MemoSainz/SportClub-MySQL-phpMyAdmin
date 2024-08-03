@@ -20,19 +20,23 @@ Development
 
 - Obtain a whole list of all the people
   
-    ```SELECT * FROM people;
+    ```sql
+    SELECT * FROM people;
     ```
 
 - Obtain a whole list of all sports
 
-  ```SELECT * FROM sports;
+  ```sql
+  SELECT * FROM sports;
   ```
 
 - Obtain a list of th people who practices tennis.
 
-  ```SELECT * FROM people WHERE fk_code=1;
+  ```sql
+  SELECT * FROM people WHERE fk_code=1;
   ```
 
 - Obtain the quantity of people who practices football.
-    ```SELECT COUNT(fk_code) FROM people WHERE (fk_code=3);
+    ```sql
+    SELECT COUNT(fk_code) FROM people WHERE (fk_code=3);
     ```
