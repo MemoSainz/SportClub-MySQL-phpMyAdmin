@@ -63,7 +63,7 @@ It is required, after doing the development of the exercise, this 4 sections.
 <img alt="Static Badge" src="https://img.shields.io/badge/Tech%20Cult-blue?style=for-the-badge&logo=youtube&logoColor=%23f8f8ff&logoSize=30&label=Memo's&labelColor=%23ec8f16&color=%2300a86b">
 </a>
 <a target="_blank" href="https://github.com/MemoSainz/">
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=%23f8f8ff&logoSize=30&label=Memo's&labelColor=%23ec8f16&color=%2300a86b">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=%23f8f8ff&logoSize=30&label=Memo's&labelColor=slateblue&color=%2300a86b">
 </a>
 
 <br>
