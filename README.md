@@ -1,4 +1,4 @@
-## Sport Club
+<div align="center"> ## Sport Club</div>
 
 A database created called Club in where it's included two tables: sports & people.
 
