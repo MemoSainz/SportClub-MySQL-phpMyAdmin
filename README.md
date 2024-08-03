@@ -23,7 +23,11 @@ A database created called Club in where it's included two tables: sports & peopl
 
 <br>
 
+<div align="center"> 
+
 ## Queries  SQL
+
+</div>
 
 - Obtain a whole list of all the people
   
