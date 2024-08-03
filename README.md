@@ -54,6 +54,17 @@ It is required, after doing the development of the exercise, this 4 sections.
     SELECT COUNT(fk_code) FROM people WHERE (fk_code=3);
     ```
 
+<br>
+
+<a target="_blank" href="https://github.com/MemoSainz/Portfolio">
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=%23f8f8ff&logoSize=auto&label=Memo%27s&labelColor=%23304674&color=%2382C2FF">
+</a>
+<a target="_blank" href="https://www.youtube.com/@tioalex-px">
+<img alt="Static Badge" src="https://img.shields.io/badge/Tech%20Cult-blue?style=for-the-badge&logo=youtube&logoColor=%23f8f8ff&logoSize=30&label=Memo's&labelColor=%23ec8f16&color=%2300a86b">
+</a>
+<a target="_blank" href="https://github.com/MemoSainz/">
+<img alt="Static Badge" src="https://img.shields.io/badge/Tech%20Cult-blue?style=for-the-badge&logo=github&logoColor=%23f8f8ff&logoSize=30&label=Memo's&labelColor=%23ec8f16&color=%2300a86b">
+</a>
 
 <br>
 
