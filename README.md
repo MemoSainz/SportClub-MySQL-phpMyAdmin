@@ -1,7 +1,10 @@
-<div align="center"> ## Sport Club</div>
+<div align="center"> 
+  
+  ## Sport Club
 
 A database created called Club in where it's included two tables: sports & people.
 
+</div>
 
 > [!IMPORTANT]
 > Development
