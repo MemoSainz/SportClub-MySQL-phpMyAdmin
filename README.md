@@ -56,6 +56,7 @@ It is required, after doing the development of the exercise, this 4 sections.
 
 <br>
 
+<div align="center"> 
 <a target="_blank" href="https://github.com/MemoSainz/Portfolio">
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=%23f8f8ff&logoSize=auto&label=Memo%27s&labelColor=%23304674&color=%2382C2FF">
 </a>
@@ -68,6 +69,6 @@ It is required, after doing the development of the exercise, this 4 sections.
 
 <br>
 
-<div align="center"> 
+
 <b> All lefts reserved 	&#169; Memo Sainz 2024 </b>
 </div>
