@@ -19,13 +19,20 @@ Development
 ## Queries  SQL
 
 - Obtain a whole list of all the people
-    SELECT * FROM people;
+  
+    ```SELECT * FROM people;
+    ```
 
 - Obtain a whole list of all sports
-    SELECT * FROM sports;
+
+  ```SELECT * FROM sports;
+  ```
 
 - Obtain a list of th people who practices tennis.
-    SELECT * FROM people WHERE fk_code=1;
+
+  ```SELECT * FROM people WHERE fk_code=1;
+  ```
 
 - Obtain the quantity of people who practices football.
-    SELECT COUNT(fk_code) FROM people WHERE (fk_code=3);
+    ```SELECT COUNT(fk_code) FROM people WHERE (fk_code=3);
+    ```
