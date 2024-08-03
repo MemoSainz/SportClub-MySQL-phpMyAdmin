@@ -14,6 +14,7 @@ Development
 
 - Add at least 10 registries in the table of people and 3 in the table of sports (tennis, football and basket are suggested)
 
+<br>
 
 ## Queries  SQL
 
