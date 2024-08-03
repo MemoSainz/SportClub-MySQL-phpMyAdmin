@@ -53,6 +53,14 @@ It is required, after doing the development of the exercise, this 4 sections.
     ```sql
     SELECT COUNT(fk_code) FROM people WHERE (fk_code=3);
     ```
+<br>
+
+<img src="https://i.imgur.com/3WPiROM.png">
+
+<img src="https://i.imgur.com/E5nWFXn.png">
+
+<img src="https://i.imgur.com/d77kVK8.png">
+
 
 <br>
 
